@@ -101,31 +101,7 @@ Machine Learning------------------------Scikit-Learn
 Dashboarding----------------------------Excel, Power BI
 Documentation---------------------------GitHub, MicrosoftWord, PPT
 
-📁 Project Files Included
-├── Data/
-│   ├── raw_data.csv
-│   ├── clean_data.csv
-│
-├── Notebooks/
-│   ├── EDA_Visualization.ipynb
-│   ├── Statistical_Analysis.ipynb
-│   ├── ML_Models.ipynb
-│
-├── Dashboards/
-│   ├── PowerBI_Dashboard.pbix
-│   ├── Excel_Dashboard.xlsx
-│
-├── Models/
-│   ├── linear_regression.pkl
-│   ├── logistic_regression.pkl
-│   ├── kmeans_model.pkl
-│   ├── decision_tree.pkl
-│
-├── Reports/
-│   ├── Final_Project_Report.pdf
-│   ├── Presentation.pptx
-│
-└── README.md
+
 
 📈 Key Insights (Summary)
 -Electronics & Fashion categories generate the highest revenue
