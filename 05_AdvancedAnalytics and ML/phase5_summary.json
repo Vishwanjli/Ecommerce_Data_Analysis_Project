@@ -1,0 +1,48 @@
+{
+  "kmeans_centers": [
+    {
+      "Recency": 89.84037558685446,
+      "Frequency": 1.0,
+      "Monetary_log": 5.45869636993016,
+      "Monetary": 234.79114397503307
+    },
+    {
+      "Recency": 149.48809523809524,
+      "Frequency": 1.0,
+      "Monetary_log": 3.6091209436779006,
+      "Monetary": 36.93357185078258
+    },
+    {
+      "Recency": 260.45544554455444,
+      "Frequency": 1.0,
+      "Monetary_log": 5.348639778073162,
+      "Monetary": 210.3220185877579
+    }
+  ],
+  "linear_regression": {
+    "rmse": 20.923202152297407,
+    "r2": 0.9715276365317821
+  },
+  "churn_model": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "decision_tree": {
+    "accuracy": 0.07,
+    "precision_weighted": 0.10694638694638695,
+    "recall_weighted": 0.07
+  },
+  "feature_importances_dt": {
+    "Price (Rs.)": 0.24617532476847254,
+    "Discount (%)": 0.07176980030405054,
+    "Payment_Method_Encoded": 0.1295797214122502,
+    "Final_Price(Rs.)": 0.5524751535152267
+  },
+  "feature_importances_lr": {
+    "Price (Rs.)": 0.8000491689279354,
+    "Discount (%)": -2.5044746229958634,
+    "Payment_Method_Encoded": -0.9851240075372435,
+    "Category_Encoded": -0.6651292481308503
+  }
+}
